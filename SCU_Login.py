@@ -14,8 +14,8 @@ chosen_scores_name='人工智能导论'
 chosen_scores_id='314044020_01'
 times=1.25
 ErrorXpath='//*[@id="native"]/div[1]'
-username='2021141460330'
-password='Chenyu&20021122'
+username=''
+password=''
 # times=float(input('请输入显示windows缩放比例'))
 # ErrorXpath='//*[@id="native"]/div[1]'
 # username=input('请输入用户名')
