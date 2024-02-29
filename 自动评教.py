@@ -8,8 +8,8 @@ from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.by import By
 
 times = 1.25
-username = '2021141460330'
-password = 'Chenyu&20021122'
+username = ''
+password = ''
 # times=float(input('请输入显示windows缩放比例'))
 # username=input('请输入用户名')
 # password=input('请输入密码')
