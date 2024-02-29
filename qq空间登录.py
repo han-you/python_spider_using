@@ -10,8 +10,8 @@ def main():
     select_pwd_login.click()
     username_input=bro.find_element(By.ID,'u')
     pwd_input=bro.find_element(By.ID,'p')
-    username_input.send_keys('2420380374')
-    pwd_input.send_keys('cy20021122')
+    username_input.send_keys('') //输入QQ账号
+    pwd_input.send_keys('')     //输入QQ密码
     submit=bro.find_element(By.ID,'login_button')
     submit.click()
     input()
